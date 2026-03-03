@@ -1,12 +1,12 @@
-#User Login
+# User Login
 
-##User Story
+## User Story
 
 As a registered customer,
 I want to log into the website using my email and password,
 So that I can access my account.
 
-##Acceptance Criteria
+## Acceptance Criteria
 
 1. Customer can access the login form on the homepage.
 1. Customer can enter their registered email address and password.
